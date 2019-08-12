@@ -5,4 +5,8 @@
 https://www.scconfigmgr.com/configmgrprerequisitestool/
 https://github.com/techdecline/CM_Setup/tree/master/Script
 
-State of DevOps Report
+## ToDO
+Link State of DevOps Report
+Example Push-Pop-Location
+https://www.systemcenterdudes.com/sccm-cmpivot-query/
+chocodeploy
