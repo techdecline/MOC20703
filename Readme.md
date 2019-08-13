@@ -10,6 +10,8 @@ https://www.microsoft.com/en-us/itshowcase/how-microsoft-is-modernizing-device-m
 https://www.systemcenterdudes.com/sccm-cmpivot-query/
 https://www.amazon.de/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
 https://docs.microsoft.com/en-us/sccm/
+https://gallery.technet.microsoft.com/RegKeyToMof-28e84c28
+https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/The-perils-of-using-Internet-Explorer-as-your-default-browser/ba-p/331732
 
 
 ## ToDO
