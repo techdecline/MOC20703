@@ -32,12 +32,14 @@ https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/The-perils-of-using-I
 
 https://deploymentresearch.com/Research/Post/674/Setup-Low-Extra-Delay-Background-Transport-LEDBAT-for-ConfigMgr
 
+https://puppet.com/resources/whitepaper/state-of-devops-report
+
 ### Documentation
 https://docs.microsoft.com/en-us/sccm/
 
 https://docs.microsoft.com/en-us/sccm/desktop-analytics/overview
 
 ## ToDO
-Link State of DevOps Report
+
 Example Push-Pop-Location
 chocodeploy
