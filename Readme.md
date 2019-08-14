@@ -34,12 +34,15 @@ https://deploymentresearch.com/Research/Post/674/Setup-Low-Extra-Delay-Backgroun
 
 https://puppet.com/resources/whitepaper/state-of-devops-report
 
+https://blogs.technet.microsoft.com/swisspfe/2018/01/25/branch-cache-vs-peer-cache/
+
+https://blog.ctglobalservices.com/configuration-manager-sccm/kea/configuring-backup-in-configmgr-current-branch/
+
+https://home.configmgrftw.com/ip-subnet-boundaries-are-evil/
+
 ### Documentation
 https://docs.microsoft.com/en-us/sccm/
 
 https://docs.microsoft.com/en-us/sccm/desktop-analytics/overview
 
-## ToDO
-
-Example Push-Pop-Location
-chocodeploy
+https://docs.microsoft.com/en-us/windows/win32/msi/command-line-options
