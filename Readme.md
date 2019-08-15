@@ -39,6 +39,8 @@ https://blog.ctglobalservices.com/configuration-manager-sccm/kea/configuring-bac
 
 https://home.configmgrftw.com/ip-subnet-boundaries-are-evil/
 
+https://www.itninja.com/
+
 ## Documentation
 https://docs.microsoft.com/en-us/sccm/
 
