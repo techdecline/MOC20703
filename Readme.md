@@ -41,6 +41,10 @@ https://home.configmgrftw.com/ip-subnet-boundaries-are-evil/
 
 https://www.itninja.com/
 
+https://github.com/techdecline/WsusMgmt
+
+https://support.microsoft.com/en-us/help/4490644/complete-guide-to-microsoft-wsus-and-configuration-manager-sup-maint
+
 ## Documentation
 https://docs.microsoft.com/en-us/sccm/
 
