@@ -1,19 +1,18 @@
 # MOC 20703 - Administering System Center Configuration Manager
-## Links
-### Tools
-#### ConfigMgr Prerequisites
+## Tools
+### ConfigMgr Prerequisites
 https://www.scconfigmgr.com/configmgrprerequisitestool/
 
 https://github.com/techdecline/CM_Setup/tree/master/Script
 
-#### Registry to Mof (for Hardware Inventory)
+### Registry to Mof (for Hardware Inventory)
 https://gallery.technet.microsoft.com/RegKeyToMof-28e84c28
 
-### Troubleshooting
-#### Workflows
+## Troubleshooting
+### Workflows
 https://karthickjokirathinam.com/2018/02/11/process-flow-of-automatic-client-push-installation-from-system-discovery-to-registration/
 
-### Books
+## Books
 https://leanpub.com/troubleshooting
 
 https://www.amazon.de/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
@@ -22,10 +21,10 @@ https://www.amazon.de/Practice-System-Network-Administration-Enterprise/dp/03219
 
 https://www.amazon.de/Management-System-Administrators-Thomas-Limoncelli/dp/0596007833
 
-### Videos
+## Videos
 https://www.microsoft.com/en-us/itshowcase/how-microsoft-is-modernizing-device-management
 
-### Blogs and Articles
+## Blogs and Articles
 https://www.systemcenterdudes.com/sccm-cmpivot-query/
 
 https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/The-perils-of-using-Internet-Explorer-as-your-default-browser/ba-p/331732
@@ -40,7 +39,7 @@ https://blog.ctglobalservices.com/configuration-manager-sccm/kea/configuring-bac
 
 https://home.configmgrftw.com/ip-subnet-boundaries-are-evil/
 
-### Documentation
+## Documentation
 https://docs.microsoft.com/en-us/sccm/
 
 https://docs.microsoft.com/en-us/sccm/desktop-analytics/overview
