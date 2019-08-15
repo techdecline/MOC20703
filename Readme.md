@@ -45,6 +45,10 @@ https://github.com/techdecline/WsusMgmt
 
 https://support.microsoft.com/en-us/help/4490644/complete-guide-to-microsoft-wsus-and-configuration-manager-sup-maint
 
+https://www.scconfigmgr.com/2019/02/01/patch-compliance-reporting-in-powerbi-report-version-2-5/
+
+https://www.scconfigmgr.com/2018/07/31/configure-and-deploy-third-party-software-updates-with-configmgr/
+
 ## Documentation
 https://docs.microsoft.com/en-us/sccm/
 
