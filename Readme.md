@@ -49,6 +49,16 @@ https://www.scconfigmgr.com/2019/02/01/patch-compliance-reporting-in-powerbi-rep
 
 https://www.scconfigmgr.com/2018/07/31/configure-and-deploy-third-party-software-updates-with-configmgr/
 
+https://deploymentresearch.com/Research
+
+https://garytown.com/
+
+https://miketerrill.net/
+
+## Podcasts
+
+http://runasradio.com/
+
 ## Documentation
 https://docs.microsoft.com/en-us/sccm/
 
