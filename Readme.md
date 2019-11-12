@@ -8,6 +8,12 @@ https://github.com/techdecline/CM_Setup/tree/master/Script
 ### Registry to Mof (for Hardware Inventory)
 https://gallery.technet.microsoft.com/RegKeyToMof-28e84c28
 
+### ConfigMgr Task Sequence Monitor
+https://gallery.technet.microsoft.com/ConfigMgr-Task-Sequence-fefdc532
+
+### ConfigMgr Client Tools
+https://www.microsoft.com/en-us/download/details.aspx?id=50012
+
 ## Troubleshooting
 ### Workflows
 https://karthickjokirathinam.com/2018/02/11/process-flow-of-automatic-client-push-installation-from-system-discovery-to-registration/
@@ -20,6 +26,8 @@ https://www.amazon.de/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
 https://www.amazon.de/Practice-System-Network-Administration-Enterprise/dp/0321919165
 
 https://www.amazon.de/Management-System-Administrators-Thomas-Limoncelli/dp/0596007833
+
+https://www.amazon.de/Deployment-Fundamentals-Vol-Deploying-Microsoft/dp/9187445212
 
 ## Videos
 https://www.microsoft.com/en-us/itshowcase/how-microsoft-is-modernizing-device-management
@@ -55,6 +63,14 @@ https://garytown.com/
 
 https://miketerrill.net/
 
+https://www.moderndeployment.com/quick-start-guide-windows-10-waas-servicing-updates-via-osdbuilder/
+
+https://blogs.technet.microsoft.com/secguide/2018/12/10/remote-use-of-local-accounts-laps-changes-everything/
+
+https://stevethompsonmvp.wordpress.com/2016/11/29/optimizing-sccm-databases-revisited/
+
+http://deploymentresearch.com/Research/Post/607/SQL-Server-2016-shininess-for-ConfigMgr-Current-Branch
+
 ## Podcasts
 
 http://runasradio.com/
@@ -65,3 +81,5 @@ https://docs.microsoft.com/en-us/sccm/
 https://docs.microsoft.com/en-us/sccm/desktop-analytics/overview
 
 https://docs.microsoft.com/en-us/windows/win32/msi/command-line-options
+
+https://support.microsoft.com/en-us/help/929852/guidance-for-configuring-ipv6-in-windows-for-advanced-users
