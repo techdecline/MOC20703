@@ -1,5 +1,5 @@
-cd C:\Windows
+Set-Location C:\Windows
 
 Push-Location C:\
-echo "Pushed Path is: $($PWD.Path)"
+Write-Host "Pushed Path is: $($PWD.Path)"
 Pop-Location

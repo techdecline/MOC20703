@@ -83,3 +83,5 @@ https://docs.microsoft.com/en-us/sccm/desktop-analytics/overview
 https://docs.microsoft.com/en-us/windows/win32/msi/command-line-options
 
 https://support.microsoft.com/en-us/help/929852/guidance-for-configuring-ipv6-in-windows-for-advanced-users
+
+https://docs.microsoft.com/en-us/configmgr/core/clients/deploy/about-client-installation-properties
